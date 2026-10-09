@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Café Byte</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header>
+    <h1>Café Byte</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+    </nav>
+  </header>
+  <main>
+    <p>El café favorito de los programadores.</p>
+  </main>
+  <footer>
+    <p>Café Byte · Calle Falsa 123</p>
+  </footer>
+</body>
+</html>
+ 
