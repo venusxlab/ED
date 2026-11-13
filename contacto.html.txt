@@ -10,7 +10,7 @@
     <h1>Contacto</h1>
   </header>
   <main>
-    <p>Dirección: Calle Mayor, 12, Madrid</p>
+    <p>Dirección: Calle San Fernando, 12, Madrid</p>
     <p>Horario: de lunes a viernes, de 8:00 a 20:00</p>
     <p><a href="index.html">Volver al inicio</a></p>
   </main>
