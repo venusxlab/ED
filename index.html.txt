@@ -15,7 +15,7 @@
     </nav>
   </header>
   <main>
-    <p>El café favorito de los programadores.</p>
+    <p>El café favorito de los programadores lleva hielo y sin azucar.</p>
   </main>
   <footer>
     <p>Café Byte · Calle Falsa 123</p>
